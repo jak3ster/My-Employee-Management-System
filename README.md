@@ -17,8 +17,9 @@ A console application Content Management Systems for managing a company's employ
       * [scheme.sql](./db/schema.sql)
       * [seed.sql](./db/seed.sql)
 
-* The application is invoked by running `node app.js` in the command line
-* Follow the prompts to finish application
+* The application is invoked by running `node app.js` in the command line  
+* Follow the prompts to finish application  
+
 ![DemoScreenshot](./assets/demo/my-employee-management-system-demo.png)
 
 ## Demo and Links

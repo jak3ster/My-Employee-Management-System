@@ -14,18 +14,17 @@ A console application Content Management Systems for managing a company's employ
 
 * To start using the application, use mySQL Workbench to setup the database and seed using files:
 
-    [scheme.sql](./db/schema.sql)
-    [seed.sql](./db/seed.sql)
+      * [scheme.sql](./db/schema.sql)
+      * [seed.sql](./db/seed.sql)
 
 * The application is invoked by running `node app.js` in the command line
-
 * Follow the prompts to finish application
-  ![DemoScreenshot](./assets/demo/my-employee-management-system-demo.png)
+![DemoScreenshot](./assets/demo/my-employee-management-system-demo.png)
+
+## Demo and Links
 
 * [Video Demo](https://drive.google.com/file/d/1aEthJy32mQkgJQb6WPvvUp8xnub3h3DK/view?usp=sharing)
-
-* Website
-  * [Github](https://github.com/jak3ster/my-employee-management-system)
+* [Github](https://github.com/jak3ster/my-employee-management-system)
 
 ## Features
 

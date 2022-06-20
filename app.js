@@ -350,7 +350,8 @@ function update() {
 
                 connection.query(
                     "UPDATE employee SET ? WHERE ?",
-                    [{
+                    [
+                        {
                             role_id: chosenRole,
                         },
                         {
